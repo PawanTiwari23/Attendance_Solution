@@ -13,8 +13,7 @@ An efficient **Java-based Attendance Management System** that generates unique Q
 
 ✅ **Mark Attendance Automatically:** The system records attendance with timestamps and stores the data securely.
 
----
----
+
 
 ---
 
